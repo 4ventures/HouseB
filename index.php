@@ -53,7 +53,7 @@
 
 <p class="text-justify" style="font-weight:bold;color:green;" >
 
-<mark>"Search Roof"</mark> is an android application, it acts as broker between house owners and house seekers, if you are a owner please create an account and start posting your adds, if you are a seeker searching for house, just make use of links such as RENT,LEASE etc or Search house of your required type.
+<mark>"Search the Roof"</mark> is an android application, it acts as broker between house owners and house seekers, if you are a owner please create an account and start posting your adds, if you are a seeker searching for house, just make use of links such as RENT,LEASE etc or Search house of your required type.
 
 
 </p>
